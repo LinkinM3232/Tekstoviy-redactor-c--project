@@ -1,0 +1,3 @@
+# Hashes of file build rules.
+96d739218b5b75f2f35a9a94a71d4a78 CMakeFiles/TxtEditor_autogen
+126bd0a78baa8d6b118189a94057ca89 TxtEditor_autogen/timestamp
